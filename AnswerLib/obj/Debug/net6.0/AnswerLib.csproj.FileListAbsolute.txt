@@ -1,0 +1,12 @@
+/home/tom/Documents/Code/leetcode/AnswerLib/bin/Debug/net6.0/AnswerLib.deps.json
+/home/tom/Documents/Code/leetcode/AnswerLib/bin/Debug/net6.0/AnswerLib.dll
+/home/tom/Documents/Code/leetcode/AnswerLib/bin/Debug/net6.0/AnswerLib.pdb
+/home/tom/Documents/Code/leetcode/AnswerLib/obj/Debug/net6.0/AnswerLib.csproj.AssemblyReference.cache
+/home/tom/Documents/Code/leetcode/AnswerLib/obj/Debug/net6.0/AnswerLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/tom/Documents/Code/leetcode/AnswerLib/obj/Debug/net6.0/AnswerLib.AssemblyInfoInputs.cache
+/home/tom/Documents/Code/leetcode/AnswerLib/obj/Debug/net6.0/AnswerLib.AssemblyInfo.cs
+/home/tom/Documents/Code/leetcode/AnswerLib/obj/Debug/net6.0/AnswerLib.csproj.CoreCompileInputs.cache
+/home/tom/Documents/Code/leetcode/AnswerLib/obj/Debug/net6.0/AnswerLib.dll
+/home/tom/Documents/Code/leetcode/AnswerLib/obj/Debug/net6.0/refint/AnswerLib.dll
+/home/tom/Documents/Code/leetcode/AnswerLib/obj/Debug/net6.0/AnswerLib.pdb
+/home/tom/Documents/Code/leetcode/AnswerLib/obj/Debug/net6.0/ref/AnswerLib.dll

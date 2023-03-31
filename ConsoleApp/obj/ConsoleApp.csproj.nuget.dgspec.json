@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tom/Documents/Code/leetcode/ConsoleApp/ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "/home/tom/Documents/Code/leetcode/AnswerLib/AnswerLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tom/Documents/Code/leetcode/AnswerLib/AnswerLib.csproj",
+        "projectName": "AnswerLib",
+        "projectPath": "/home/tom/Documents/Code/leetcode/AnswerLib/AnswerLib.csproj",
+        "packagesPath": "/home/tom/.nuget/packages/",
+        "outputPath": "/home/tom/Documents/Code/leetcode/AnswerLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tom/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/tom/Documents/Code/leetcode/ConsoleApp/ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tom/Documents/Code/leetcode/ConsoleApp/ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "/home/tom/Documents/Code/leetcode/ConsoleApp/ConsoleApp.csproj",
+        "packagesPath": "/home/tom/.nuget/packages/",
+        "outputPath": "/home/tom/Documents/Code/leetcode/ConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tom/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/tom/Documents/Code/leetcode/AnswerLib/AnswerLib.csproj": {
+                "projectPath": "/home/tom/Documents/Code/leetcode/AnswerLib/AnswerLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
