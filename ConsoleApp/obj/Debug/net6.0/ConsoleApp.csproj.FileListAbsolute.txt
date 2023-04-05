@@ -16,3 +16,5 @@
 /home/tom/Documents/Code/leetcode/ConsoleApp/bin/Debug/net6.0/AnswerLib.dll
 /home/tom/Documents/Code/leetcode/ConsoleApp/bin/Debug/net6.0/AnswerLib.pdb
 /home/tom/Documents/Code/leetcode/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CopyComplete
+/home/tom/Documents/Code/leetcode/ConsoleApp/bin/Debug/net6.0/SeventyFive.dll
+/home/tom/Documents/Code/leetcode/ConsoleApp/bin/Debug/net6.0/SeventyFive.pdb

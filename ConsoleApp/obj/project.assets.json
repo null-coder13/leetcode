@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/AnswerLib.dll": {}
         }
+      },
+      "SeventyFive/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SeventyFive.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SeventyFive.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../AnswerLib/AnswerLib.csproj",
       "msbuildProject": "../AnswerLib/AnswerLib.csproj"
+    },
+    "SeventyFive/1.0.0": {
+      "type": "project",
+      "path": "../SeventyFive/SeventyFive.csproj",
+      "msbuildProject": "../SeventyFive/SeventyFive.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "AnswerLib >= 1.0.0"
+      "AnswerLib >= 1.0.0",
+      "SeventyFive >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,6 +69,9 @@
           "projectReferences": {
             "/home/tom/Documents/Code/leetcode/AnswerLib/AnswerLib.csproj": {
               "projectPath": "/home/tom/Documents/Code/leetcode/AnswerLib/AnswerLib.csproj"
+            },
+            "/home/tom/Documents/Code/leetcode/SeventyFive/SeventyFive.csproj": {
+              "projectPath": "/home/tom/Documents/Code/leetcode/SeventyFive/SeventyFive.csproj"
             }
           }
         }
